@@ -7,7 +7,7 @@ I.
 cdk_demo shows the things I was learning/trying in terms of setting up AWS and how far I got.
 
 Error looks like the following. All the google results for 'this' not assignable to parameter of type 'Construct' have not yeilded a solution.
-====================
+
 (mecvenv) ➜  cdk-demo git:(master) ✗ cdk deploy
 /Users/michaelecase/Desktop/AWSLearning/cdk-demo/node_modules/ts-node/src/index.ts:859
     return new TSError(diagnosticText, diagnosticCodes, diagnostics);
