@@ -4,6 +4,8 @@ README.md
 It is weird to be writing this up in this way.
 
 I. 
+===
+
 cdk_demo shows the things I was learning/trying in terms of setting up AWS and how far I got.
 
 Error looks like the following. All the google results for 'this' not assignable to parameter of type 'Construct' have not yeilded a solution.
@@ -42,17 +44,18 @@ I only provided the files I changed from that repo, following the instructions a
 Startup:
 cdk deploy
 
-======================================
 
 II.
-On the Strawberry Rocks front I got only so far. I could not actually get the Status to be the way I wanted. I also think from your first line I was lost. I thought that by learning the components I would eventually be able to understand how to build a microservice. In any case, this is just a dump of the information from the information you provided, hard-coded in the python, so not correct.
+===
+
+On the Strawberry Rocks front I got only so far. I could not actually get the Status to be the way I wanted. I also think from your first line I was lost. I thought that by learning the components I would eventually be able to understand how to build a microservice. In any case, this is just a dump of two users from the information you provided, hard-coded in the python, so not the right idea.
 
 Startup:
 strawberry server schema
 
-======================================
 
 III.
+===
 
 On the GraphQL side of things I basically ran the die rolling demo, graphql-demo.js. I then started to explore, again, doing it the way I wanted (without fully understanding the environment I'm working in, Node.js)
 
@@ -64,16 +67,18 @@ Startup:
 node graphql-demo_fail.js
 node graphql-demo.js
 
-======================================
 
 IV.
+===
+
 I just tried to figure out how to get the data you gave me into MongoDB Atlas. I have nothing to show for that tonight. I'll keep playing, maybe switch over to one of their data sets after this 'test' is over.
 
 
 AND finally:
 
 V.
-I downloaded Docker for the Mac, it required hyperkit but also, my Mac OS is too old to run it.
+===
 
+I downloaded Docker for the Mac, it required hyperkit but also, my Mac OS is too old to run it.
 
 
